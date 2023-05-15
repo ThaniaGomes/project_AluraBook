@@ -1,11 +1,2 @@
-console.log("Mandando oi para o amigo!");
-
-function mandaMensagem(){
-    console.log("tudo bem?")
-    console.log("vou te mandar uma solicitação!")
-    console.log("solicitação recebida.")
-}
-
-mandaMensagem()
-
-console.log("byby")
+var consultaCep = fetch('viacep.com.br/ws/01001000/json')
+console.log(consultaCep)
