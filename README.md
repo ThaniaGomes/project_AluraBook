@@ -1,4 +1,4 @@
-# js-consumindo-dados-api
+# JavaScript Site Alura Book
 
 ## ★ **JavaScript: Consumindo e tratando dados de uma API** ★
 
