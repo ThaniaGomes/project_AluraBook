@@ -12,6 +12,8 @@ Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
 1. git clone https://github.com/thaniagomes/project_AluraBook para clonar o projeto!
 2. Abrir o arquivo index.html no navegador.
 
+ou acessar site: https://project-alura-book.vercel.app/
+
 ### Explicação:
 
 •	Selecionar elementos pelo seu id através do getElementById;
